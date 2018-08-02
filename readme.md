@@ -12,7 +12,7 @@
 
 > Hashing made simple. Get the hash of a buffer/string/stream/file.
 
-[![Build Status](https://travis-ci.org/sindresorhus/hasha.svg?branch=master)](https://travis-ci.org/sindresorhus/hasha)
+[![Build Status](https://travis-ci.org/sindresorhus/hasha.svg?branch=master)](https://travis-ci.org/sindresorhus/hasha) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/sindresorhus--hasha.svg)](https://www.staging.guardrails.io)
 
 Convenience wrapper around the core [`crypto` Hash class](https://nodejs.org/api/crypto.html#crypto_crypto_createhash_algorithm) with simpler API and better defaults.
 
